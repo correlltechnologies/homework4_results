@@ -8,6 +8,6 @@ using https://github.com/klandrzejewski/Robotics-Group/tree/main/webots_ros2_hom
 
 Usage:\
 python3 rosbag_to_csv.py\
-You need to change the rosbag file name and output csv name in the file.\
+You need to change the rosbag file name and output csv name in the file.
  
 python3 rosbag_csv_processor.py [csv filename]
