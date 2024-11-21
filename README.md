@@ -1,5 +1,5 @@
-#Trial results for 11/18/2024 and 11/20/2024
-#Viper group
+Trial results for 11/18/2024 and 11/20/2024\
+Viper group
 
 first_run = 13 tags detected
 final = 14 tags detected
