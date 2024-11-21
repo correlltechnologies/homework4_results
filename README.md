@@ -12,5 +12,6 @@ Usage:
 `python3 rosbag_to_csv.py`\
 > You need to change the rosbag file name and output csv name in the rosbag_to_csv file.
 
-> Process new csv file and export .txt file with results\
+> Process new csv file and export .txt file with results
+
 `python3 rosbag_csv_processor.py [csv filename]`
