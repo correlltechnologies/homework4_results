@@ -1,4 +1,4 @@
-# Trial results for 11/18/2024 and 11/20/2024\
+# Trial results for 11/18/2024 and 11/20/2024
 ## Viper group
 
 **first_run = 13 tags detected**\
