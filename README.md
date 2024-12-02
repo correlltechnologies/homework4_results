@@ -1,8 +1,12 @@
-# Trial results for 11/18/2024 and 11/20/2024
+# Trial results for Part 1 (11/18/2024 and 11/20/2024) & Part 2 (12/2/2024) of Homework 4
 ## Viper group
 
+## Part 1 - Individual Trials
 **first_run = 13 tags detected**\
 **final = 14 tags detected**
+
+## Part 2 - 4 Team Trials
+**trial = 19 tags detected**
 
 using https://github.com/klandrzejewski/Robotics-Group/tree/main/webots_ros2_homework4_python as controller
 
